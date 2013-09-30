@@ -1,0 +1,53 @@
+{
+  "adjective": [
+    "puerile",
+    "futile",
+    "apoplectic",
+    "moribund",
+    "trite",
+    "apocryphal",
+    "apt",
+    "erroneous",
+    "fallacious",
+    "elegant",
+    "obsolescent",
+    "disingenuous",
+    "indulgent"
+  ],
+  "adverb": [
+    "promptly",
+    "clearly",
+    "evidently",
+    "frequently",
+    "arbitrarily",
+    "sophistically"
+  ],
+  "noun": [
+    "zeitgeist",
+    "palimpsest",
+    "triviality",
+    "despondency",
+    "ubiquity",
+    "modicum",
+    "dilettante",
+    "morass",
+    "pedantry",
+    "lethargy",
+    "nuance"
+  ],
+  "verb": [
+    "meander",
+    "equivocate",
+    "posture",
+    "traipse",
+    "palaver"
+  ],
+  "phrase": [
+    "no mere hyperbole",
+    "no sure corollary",
+    "or some shit",
+    "thanks, Wikipedia",
+    "but I digress",
+    "but let that go"
+  ]
+}
